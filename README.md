@@ -2,7 +2,7 @@
 
 Dumper works for latest version of HI3rd (6.5.0)
 
-For more information visit corresponding thread on UC: link
+For more information visit corresponding thread on UC: [THREAD](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/582176-honkai-impact-3rd-dumper-decryption-guide.html)
 
 ```
 Provided by aikana.cc team
