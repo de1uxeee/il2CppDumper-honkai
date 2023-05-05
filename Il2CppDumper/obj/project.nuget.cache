@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aOk0MFj8QIo2xR2I/UZSs4xVZ+Uc6WPfsDCpPsrbfRHGQl+VGTExJK/aT5srpVwdWxQv/2aXidN+wGqiTWK14Q==",
+  "success": true,
+  "projectFilePath": "D:\\ARCHIVE\\PROJECTS\\projects\\il2cpp-dumper-honkai\\Il2CppDumper\\Il2CppDumper\\Il2CppDumper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,204 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Mono.Cecil/0.11.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        }
+      }
+    },
+    "net7.0": {
+      "Mono.Cecil/0.11.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Mono.Cecil.Mdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Pdb.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.Rocks.dll": {
+            "related": ".pdb"
+          },
+          "lib/netstandard2.0/Mono.Cecil.dll": {
+            "related": ".Mdb.pdb;.pdb;.Pdb.pdb;.Rocks.pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mono.Cecil/0.11.4": {
+      "sha512": "IC1h5g0NeJGHIUgzM1P82ld57knhP0IcQfrYITDPXlNpMYGUrsG5TxuaWTjaeqDNQMBDNZkB8L0rBnwsY6JHuQ==",
+      "type": "package",
+      "path": "mono.cecil/0.11.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Mono.Cecil.Mdb.dll",
+        "lib/net40/Mono.Cecil.Mdb.pdb",
+        "lib/net40/Mono.Cecil.Pdb.dll",
+        "lib/net40/Mono.Cecil.Pdb.pdb",
+        "lib/net40/Mono.Cecil.Rocks.dll",
+        "lib/net40/Mono.Cecil.Rocks.pdb",
+        "lib/net40/Mono.Cecil.dll",
+        "lib/net40/Mono.Cecil.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Mdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "lib/netstandard2.0/Mono.Cecil.Pdb.pdb",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "lib/netstandard2.0/Mono.Cecil.Rocks.pdb",
+        "lib/netstandard2.0/Mono.Cecil.dll",
+        "lib/netstandard2.0/Mono.Cecil.pdb",
+        "mono.cecil.0.11.4.nupkg.sha512",
+        "mono.cecil.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Mono.Cecil >= 0.11.4"
+    ],
+    "net7.0": [
+      "Mono.Cecil >= 0.11.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ARCHIVE\\PROJECTS\\projects\\il2cpp-dumper-honkai\\Il2CppDumper\\Il2CppDumper\\Il2CppDumper.csproj",
+      "projectName": "Il2CppDumper",
+      "projectPath": "D:\\ARCHIVE\\PROJECTS\\projects\\il2cpp-dumper-honkai\\Il2CppDumper\\Il2CppDumper\\Il2CppDumper.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "D:\\ARCHIVE\\PROJECTS\\projects\\il2cpp-dumper-honkai\\Il2CppDumper\\Il2CppDumper\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0",
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        },
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Mono.Cecil": {
+            "target": "Package",
+            "version": "[0.11.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Mono.Cecil": {
+            "target": "Package",
+            "version": "[0.11.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
