@@ -1,6 +1,6 @@
-# Il2CppDumper for Honkai Impact 3rd
+# Il2CppDumper for Honkai Impact 3rd [DEPRECATED]
 
-Dumper works for latest version of HI3rd (6.5.0)
+Dumper works for 6.5.0 version of HI3rd
 
 For more information visit corresponding thread on UC: [THREAD](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/582176-honkai-impact-3rd-dumper-decryption-guide.html)
 
